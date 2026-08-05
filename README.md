@@ -1,3 +1,4 @@
 # Hey! I'm Valdeir
 
-https://valdeirsapara.com.br/
+site: https://valdeirsapara.com.br/
+cv: https://curriculum.valdeirsapara.com.br/
